@@ -8,7 +8,7 @@
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](#)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasarandas&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarandas&layout=compact&theme=onedark))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarandas&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que uso no meu dia a dia atualmente.
