@@ -19,5 +19,7 @@
 
 <h5>Atualmente me encontro cursando Análise e desenvolvimento de sistemas. Sou apaixonado por jogos e tecnologia, e além da faculdade também estou fazendo cursos complementares, para assim poder está me tornando um programador Full Stack futuramente. 🙏🏻🚀🔥</h5>
 
+![Snake animation](https://github.com/your_lucasarandas/your_lucasarandas/blob/output/github-contribution-grid-snake.svg)
+
 
 
