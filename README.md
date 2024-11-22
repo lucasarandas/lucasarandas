@@ -15,5 +15,8 @@
 <img alignm= alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alignm= alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alignm= alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div>
+</div><br/>
+
+<h5>Atualmente me encontro cursando Análise e desenvolvimento de sistemas. Sou apaixonado por jogos e tecnologia, e além da faculdade também estou fazendo cursos complementares, para assim poder está me tornando um programador Full Stack futuramente. 🙏🏻🚀🔥</h5>
+
 
