@@ -19,7 +19,7 @@
 <img alignm= alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
-<h5>Atualmente me encontro cursando Análise e desenvolvimento de sistemas. Sou apaixonado por jogos e tecnologia, e além da faculdade também estou fazendo cursos complementares, para assim poder está me tornando um programador Full Stack futuramente. 🙏🏻🚀🔥</h5>
+<h5>Atualmente recem formado em Análise e desenvolvimento de sistemas. Sou apaixonado por jogos e tecnologia, e além da faculdade também estou fazendo cursos complementares, para assim poder está me tornando um programador Full Stack futuramente. 🙏🏻🚀🔥</h5>
 
 
 
